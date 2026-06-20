@@ -1,0 +1,11 @@
+# Basic scan + interactive update prompt
+powershell -ExecutionPolicy Bypass -File "Intel-Driver-Updater.ps1"
+
+# Auto-update everything + auto-recheck
+powershell -ExecutionPolicy Bypass -File "Intel-Driver-Updater.ps1" -AutoUpdate
+
+# Only scan, never install
+powershell -ExecutionPolicy Bypass -File "Intel-Driver-Updater.ps1" -ScanOnly
+
+# Update + force recheck pass
+powershell -ExecutionPolicy Bypass -File "Intel-Driver-Updater.ps1" -Recheck
