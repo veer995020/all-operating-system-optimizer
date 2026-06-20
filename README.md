@@ -1,1 +1,1 @@
-this contains the powershell command and linux command that optimize device performances . this is a best optimizer ever which contains a space of less than a 1 mb . plz support guys for better impoverment
+this contains the powershell commands and linux command that optimize device performances . this is a best optimizer ever which contains a space of less than a 1 mb . plz support guys for better impoverment.this may also contains some apps that also optimize your pc.
